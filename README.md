@@ -1,10 +1,11 @@
-### Hi there, I'm Chandan Singh - aka [CloudWingsHost][website] 👋
+### Hi there, I'm Chandan Singh - aka [HackerCTF][website1] 👋
 
-[![Website](https://img.shields.io/static/v1?label=CloudWingsHost&message=UP&color=brightgreen)](https://cloudwingshost.com/)
+[![Website](https://img.shields.io/static/v1?label=CloudWingsHost&message=UP&color=brightgreen)](https://www.hackerctf.com/)
 
-## I'm a Digital Marketer, Developer, and Learner!!
+## I'm a Interent Marketer, Developer, and Learner!!
 
-- 🔭 I am currently working for [CloudWingsHost][website]!
+- 🔭 I am currently working for [HackerCTF][website1]!
+- ⚡ Founder of [ElitesDev][website2]!
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
@@ -24,8 +25,9 @@
 
 <br />
 
-[website]: https://cloudwingshost.com/
+[website1]: https://www.hackerctf.com/
+[website2]: https://www.elitesdev.com/
 [twitter]: https://twitter.com/chandancodes
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/chandan.elites
-[linkedin]: https://www.linkedin.com/in/chandan-singh-codes/
+[linkedin]: https://www.linkedin.com/in/chandancodes/
