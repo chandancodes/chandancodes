@@ -1,6 +1,6 @@
 ### Hi there, I'm Chandan Singh - aka [HackerCTF][website1] 👋
 
-[![Website](https://img.shields.io/static/v1?label=CloudWingsHost&message=UP&color=brightgreen)](https://www.hackerctf.com/)
+[![Website](https://img.shields.io/static/v1?label=HackerCTF&message=UP&color=brightgreen)](https://www.hackerctf.com/)
 
 ## I'm a Interent Marketer, Developer, and Learner!!
 
