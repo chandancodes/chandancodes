@@ -1,7 +1,7 @@
 ### Hi there, I'm Chandan Singh - aka [HackerCTF][website1] & [ElitesDev][website2] 👋
 
 [![Website](https://img.shields.io/static/v1?label=HackerCTF&message=UP&color=brightgreen)](https://www.hackerctf.com/)
-[![Website](https://img.shields.io/static/v1?label=ElitesDevF&message=UP&color=brightgreen)](https://www.elitesdev.com/)
+[![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://www.elitesdev.com/)
 
 ## I'm a Interent Marketer, Developer, and Learner!!
 
