@@ -6,10 +6,10 @@
 ## I'm a Interent Marketer, Developer, and Learner!!
 
 - 🔭 I am currently working for [HackerCTF][website1]!
-- ⚡ Founder of [ElitesDev][website2]!
+- ⚡ Team Lead of [ElitesDev][website2]!
 - 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 👯 I’m looking for a good team.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new things & code.
 
 ### Spotify Playing 🎧
