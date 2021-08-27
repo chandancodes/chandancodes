@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/static/v1?label=HackerCTF&message=UP&color=brightgreen)](https://www.hackerctf.com/)
 [![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://elitesdev.com/)
 
-## I'm a Interent Marketer, Developer, and Learner!!
+## I'm a Developer!
 
 - 🔭 I am currently working for [HackerCTF][website1]!
 - ⚡ Team Lead of [ElitesDev][website2]!
-- 🌱 I’m currently learning Javascript & React.JS. 🤣
+- 🌱 I’m currently learning Javascript & React.JS.
 - 👯 I’m looking for a good team.
 - 🥅 2021 Goals: Contribute more & explore development journey.
 
