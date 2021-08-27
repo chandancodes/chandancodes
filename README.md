@@ -1,9 +1,4 @@
-### Hi there, I'm Chandan Singh 👋
-
-[![Website](https://img.shields.io/static/v1?label=HackerCTF&message=UP&color=brightgreen)](https://www.hackerctf.com/)
-[![Website](https://img.shields.io/static/v1?label=ElitesDev&message=UP&color=brightgreen)](https://elitesdev.com/)
-
-## I'm a Developer!
+## Hi there, I'm Chandan Singh 👋
 
 - 🔭 I am currently working for [HackerCTF][website1]!
 - ⚡ Team Lead of [ElitesDev][website2]!
