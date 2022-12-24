@@ -1,11 +1,9 @@
 ## Hi there, I'm Chandan Singh 👋
 
-- 🔭 I am currently working for [Infinity Research Lab][website1]!
 - ⚡ Team Lead of [ElitesDev][website2]!
-- ⚡ Core Team Member of [UpgradeMore][website3]
 - 🌱 I’m currently learning Javascript & React.JS.
 - 👯 I’m looking for a good team.
-- 🥅 2021 Goals: Contribute more & explore development journey.
+- 🥅 2023 Goals: Contribute more & explore development journey.
 
 ### Connect with me:
 
@@ -17,9 +15,7 @@
 
 <br />
 
-[website1]: https://www.infinityresearchlab.com/
 [website2]: https://elitesdev.com/
-[website3]: https://upgrademore.com/
 [twitter]: https://twitter.com/chandancodes
 [instagram]: https://instagram.com/chandan.elites
 [linkedin]: https://www.linkedin.com/in/chandancodes/
